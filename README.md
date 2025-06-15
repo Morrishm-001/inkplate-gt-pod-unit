@@ -32,6 +32,8 @@ Pilot is in active development. First phase includes:
 - 4 student Inkplate 2 kits (with Raspberry Pis)
 - Curriculum modules in progress
 
+## Link to Interactive ip2 grid planner
+▶️ [Interactive Planning Grid (Google Slides)]([https://docs.google.com/...](https://docs.google.com/presentation/d/1HHy78cj3l7oSF573YOCQjSlgTI2SMPudU68wNbjPjww/edit?usp=sharing))
 ---
 
 Want to know more or replicate this setup? Email morrishm@gmail.com.
